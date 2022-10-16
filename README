@@ -1,0 +1,7 @@
+Finds the minimum spanning tree of the graph in graph.txt
+
+The graph.txt is formatted as follows
+  - first line is the number of test cases
+  - next line is the number of vertices
+  - then the coordinates of the points
+  - repeats starting with a new number of vertices
